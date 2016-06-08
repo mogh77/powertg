@@ -1,30 +1,4 @@
-
-Skip to content
-This repository
-
-    Pull requests
-    Issues
-    Gist
-
-    @abolfazl0409
-
-1
-0
-
-    1
-
-SIGNALTEAM/SignalTG
-Code
-Issues 0
-Pull requests 0
-Wiki
-Pulse
-Graphs
-SignalTG/plugins/Inpm.lua
-4fead31 9 days ago
-@p00ria p00ria Rename inpm.lua to Inpm.lua
-259 lines (248 sloc) 8.95 KB
-local function pre_process(msg)
+﻿local function pre_process(msg)
 local to = msg.to.type
 local service = msg.service
 	if to == 'user' and msg.fwd_from then
@@ -282,8 +256,3 @@ return {
     run = run,
 	pre_process = pre_process
 }
-
-    Status API Training Shop Blog About 
-
-    © 2016 GitHub, Inc. Terms Privacy Security Contact Help 
-
