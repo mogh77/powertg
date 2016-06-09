@@ -254,7 +254,7 @@ function create_config( )
 
 🆔 @PowerupTG 🆔
 
-✅ Github : https://github.com/abolfazl0409/PowerupTG.git ✅
+✅ Github : https://github.com/abolfazl0409/PowerupTG ✅
 
 👤Sudoers👤
 
@@ -482,104 +482,98 @@ Commands list :
 
 ]],
 	help_text_super =[[
-SuperGroup Commands:
-!gpinfo
-🔵 دریافت اطلاعات سوپرگروه 🔴
-!admins
-🔵 دریافت لیست ادمین های سوپرگروه 🔴
-!owner
-🔵 مشاهده آیدی صاحب گروه 🔴
-!modlist
-🔵 مشاهده لیست مدیران 🔴
-!bots
-🔵 مشهاده لیست بات های موجود در سوپرگروه 🔴
-!who
-🔵 مشاهده لیست کل اعضای سوپرگروه 🔴
-!block
-🔵 اخراج شخص از سوپرگروه 🔴
-💥 اضافه کردن شخص به لیست سیاه 💥
-!kick
-🔵 اخراج شخص از سوپرگروه 🔴
-💥 اضافه کردن شخص به لیست سیاه 💥
-!ban
-🔵 مسدود کردن شخص از سوپرگروه 🔴
-!unban
-🔵 خارج کردن شخص از لیست مسدودها 🔴
-!id
-🔵 مشاهده آیدی سوپرگروه یا شخص 🔴
-!id from
-🔵 گرفتن آیدی شخصی که از او فوروارد شده است 🔴
-!kickme
-🔵 اخراج خود از سوپرگروه 🔴
-!setowner
-🔵 یک شخص را به عنوان صاحب گروه انتخاب کردن 🔴
-!promote [username|id]
-🔵 افزودن یک شخص به لیست مدیران 🔴
-!demote [username|id]
-🔵 پاک کردن یک شخص از لیست مدیران 🔴
-!setname
-🔵 عوض کردن اسم گروه 🔴
-!setphoto
-🔵 عوض کردن عکس گروه 🔴
-!setrules
-🔵 قانونگذاری برای گروه 🔴
-!setabout
-🔵 عوض کردن متن دربازه ی گروه 🔴
-!save [value] <text>
-🔵 افزودن دستور و پاسخ 🔴
-!get [value]
-🔵 دریافت پاسخ دستور 🔴
-!newlink
-🔵 ساختن لینک جدید 🔴
-!link
-🔵 دریافت لینک گروه 🔴
-!rules
-🔵 دریافت قوانین گروه 🔴
-!lock [links|flood|spam|Arabic|member|rtl|sticker|contacts|strict|tag|username|fwd|reply|fosh|tgservice|leave|join|emoji|english|media|operator]
-🔵 قفل کردن تنظیمات 🔴
-!unlock [links|flood|spam|Arabic|member|rtl|sticker|contacts|strict|tag|username|fwd|reply|fosh|tgservice|leave|join|emoji|english|media|operator]
-🔵 بازکردن قفل تنظیمات گروه 🔴
-!mute [all|audio|gifs|photo|video|service]
-🔵 بیصدا کردن فرمت ها 🔴
-!unmute [all|audio|gifs|photo|video|service]
-🔵 از حالت بیصدا خارج کردن فرمت ها 🔴
-!setflood [value]
-🔵 تنظیم حساسیت اسپم 🔴
-!type [name]
-🔵 تنظیم نوع گروه 🔴
-!settings
-🔵 مشاهده تنظیمات گروه 🔴
-!mutelist
-🔵 لیست افراد بیصدا 🔴
-!silent [username]
-🔵 بیصدا کردن شخص در گروه 🔴
-💥 اگر شخص بیصدا پست بگذارد پیام به صورت خودکار پاک میشود 💥
-💥 صاحب های گروه میتوانند بیصدا کنند و از بیصدا دربیاورند 💥
-!silentlist
-🔵 لیست افراد بیصدا 🔴
-!banlist
-🔵 مشاهده لیست مسدود شده ها 🔴
-!clean [rules|about|modlist|silentlist|badwords]
-!del
-🔵 پاک کردن پیام با ریپلی 🔴
-!addword [word]
-🔵 افزودن کلمه به لیست کلمات غیرمجاز🔴
-!remword [word]
-🔵 پاک کردن کلمه از لیست کلمات غیرمجاز 🔴
-!badwords
-🔵 مشاهده لیست کلمات غیرمجاز 🔴
-!clean msg [value]
-🔵 پاک کردن تعداد پیام مورد نظر 🔴
-!public [yes|no]
-🔵 همگانی کردن گروه �
-!res [username]
-🔵 به دست آوردن آیدی یک شخص 🔴
-!log
-🔵 لیست ورود اعضا 🔴
-💥 [#RTL|#spam|#lockmember]از این دستورات برای جستجوی دلایل اخراج استفاده کنید  💥
-〰〰〰〰〰〰〰〰
-💥 شما میخوانید از / و ! و # استفاده کنید 💥
-💥 صاحبان گروه میتوانند اعضا را به گروه اضافه کنند 💥
+👤دستورات مدیریتی ربات PowerUP👤
+✅ دریافت لیست ادمین های سوپرگروه ✅
+⚡️!admins⚡️
+✅ مشاهده آیدی صاحب گروه ✅
+⚡️!owner⚡️
+✅ مشاهده لیست مدیران ✅
+⚡️!modlist⚡️
+✅ مشاهده لیست بات های موجود در سوپرگروه ✅
+⚡️!bots⚡️
+✅ مشاهده لیست کل اعضای سوپرگروه ✅
+⚡️!who⚡️
+✅ اضافه کردن شخص به لیست سیاه ✅
+⚡️!block⚡️
+✅ اخراج شخص از سوپرگروه ✅
+⚡️!kick⚡️
+✅ مسدود کردن شخص از سوپرگروه ✅
+⚡️!ban⚡️
+✅ خارج کردن شخص از لیست مسدودها ✅
+⚡️!unban⚡️
+✅ مشاهده آیدی سوپرگروه یا شخص ✅
+⚡️!id⚡️
+✅ گرفتن آیدی شخصی که از او فوروارد شده است ✅
+⚡️!id from⚡️
+✅ خروج از سوپرگروه ✅
+⚡️!kickme⚡️
+✅ یک شخص را به عنوان صاحب گروه انتخاب کردن ✅
+⚡️!setowner⚡️
+✅ افزودن یک شخص به لیست مدیران ✅
+⚡️!promote [username|id]⚡️
+✅ پاک کردن یک شخص از لیست مدیران ✅
+⚡️!demote [username|id]⚡️
+✅ عوض کردن اسم گروه ✅
+⚡️!setname⚡️
+✅ عوض کردن عکس گروه ✅
+⚡️!setphoto⚡️
+✅ قانون گذاری برای گروه ✅
+⚡️!setrules⚡️
+✅ عوض کردن متن درباره گروه ✅
+⚡️!setabout⚡️
+✅ افزودن دستور و پاسخ ✅
+⚡️!save [value] <text>⚡️
+✅ دریافت پاسخ دستور ✅
+⚡️!get [value]⚡️
+✅ ساختن لینک جدید ✅
+⚡️!newlink⚡️
+✅ دریافت لینک گروه ✅
+⚡️!link⚡️
+✅ دریافت قوانین گروه ✅
+⚡️!rules⚡️
+✅ قفل کردن ایتم مورد نظر ✅
+⚡️!lock [links|flood|spam|Arabic|member|rtl|sticker|contacts|strict|tag|username|fwd|reply|fosh|tgservice|leave|join|emoji|english|media|operator]⚡️
+✅ بازکردن ایتم مورد نظر ✅
+⚡️!unlock [links|flood|spam|Arabic|member|rtl|sticker|contacts|strict|tag|username|fwd|reply|fosh|tgservice|leave|join|emoji|english|media|operator]⚡️
+✅ بیصدا کردن فرمت ها ✅
+⚡️!mute [all|audio|gifs|photo|video|service]⚡️
+✅ از حالت بیصدا خارج کردن فرمت ها ✅
+⚡️!unmute [all|audio|gifs|photo|video|service]⚡️
+✅ تنظیم حساسیت اسپم ✅
+⚡️!setflood [value]⚡️
+✅ تنظیم نوع گروه ✅
+⚡️!type [name]⚡️
+✅ مشاهده تنظیمات گروه ✅
+⚡️!settings⚡️
+✅ بیصدا کردن شخص در گروه ✅
+⚡️!silent [username]⚡️
+👌برای در اوردن دوباره همین دستورو بزنید👌
+✅ لیست افراد بیصدا ✅
+⚡️!silentlist⚡️
+✅ مشاهده لیست مسدود شده ها ✅
+⚡️!banlist⚡️
+✅ پاک کردن ایتم ✅
+⚡️!clean [rules|about|modlist|silentlist|badwords]⚡️
+✅ پاک کردن پیام با ریپلی ✅
+⚡️!del⚡️
+✅ افزودن کلمه به لیست کلمات غیرمجاز✅
+⚡️!addword [word]⚡️
+✅ پاک کردن کلمه از لیست کلمات غیرمجاز ✅
+⚡️!remword [word]⚡️
+✅ مشاهده لیست کلمات غیرمجاز ✅
+⚡️!badwords⚡️
+✅ پاک کردن تعداد پیام مورد نظر ✅
+⚡️!remmsg (number)⚡️
+👌از 1 تا 999👌
+✅ فعال یا غیر فعال کردن عمومی بودن گروه ✅
+⚡️!public (yes|no)⚡️
+✅ به دست آوردن آیدی یک شخص ✅
+⚡️!res [username]⚡️
+✅ دریافت تاریخچه گروه✅
+⚡️!log⚡️
+👌دستورات بدون علامت هم کار میکنند👌
+👌 شما میتوانید از / و ! و # استفاده کنید 👌
+🆔@PowerupTG🆔
 ]],
   }
   serialize_to_file(config, './data/config.lua')
