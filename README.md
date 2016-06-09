@@ -1,5 +1,8 @@
 # PowerUP
 
+# Writer & Edtitors
+* **@Navid_MrVersatile**
+* **And Writed Readme.md By @Navid_MrVersatile**
 # Abilities
 
 * **A Bot Based On Lua And With 4 Sudo**
