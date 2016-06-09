@@ -16,7 +16,8 @@
 
 # Sudoers
 
-#### @DrCyber_MrVersatile [Supporter] And @Navid_MrVersatile [Editor] @Im_best_Sudo [Sudo] And @ThisIsPouria [Sudo]
+#### @DrCyber_MrVersatile [Supporter] And @Navid_MrVersatile [Editor] 
+### @Im_best_Sudo [Sudo] And @ThisIsPouria [Sudo]
 
 # Buy Groups
 
