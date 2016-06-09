@@ -1,3 +1,4 @@
+--Edited By @Navid_MrVersatile--
 local function run(msg, matches)
   local yon = http.request('http://api.yon.ir/?url='..URL.escape(matches[1]))
   local jdat = json:decode(yon)
