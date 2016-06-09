@@ -18,9 +18,9 @@
 * **Chat list**
 * **And more!**
 
-## Sudoers
+# Sudoers
 
-# @Im_best_Sudo [Sudo]
-# @ThisIsPouria [Sudo]
-# @DrCyber_MrVersatile [Supporter]
-# @Navid_MrVersatile [Editor]
+## @Im_best_Sudo [Sudo]
+## @ThisIsPouria [Sudo]
+## @DrCyber_MrVersatile [Supporter]
+## @Navid_MrVersatile [Editor]
