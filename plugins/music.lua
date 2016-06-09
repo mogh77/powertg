@@ -1,9 +1,10 @@
+--Edited By @Navid_MrVersatile--
 local function musiclink(msg, musicid)
 	local value = redis:hget('music:'..msg.to.id, musicid)
 	if not value then
 		return
 	else
-		value = value..'\nFire Bot'
+		value = value..'\nPowerUP'
 		return value
 	end
 end
@@ -29,14 +30,14 @@ end
 
 function run(msg, matches)
 	if string.match(msg.text, '[\216-\219][\128-\191]') then
-		return send_large_msg(get_receiver(msg), 'فارسی پشتیبانی نمیشود\nاز متن فینگلیش استفاده کنید. ')
+		return send_large_msg(get_receiver(msg), 'فارسی ساپورت نمیشود')
 	end
 	if matches[1]:lower() == "dl" then
 		local value = redis:hget('music:'..msg.to.id, matches[2])
 		if not value then
-			return 'آهنگ مورد نظر پیدا نشد.'
+			return 'آهنگ مورد نظر پیدا نشد'
 		else
-			value = value..'\n\nFire Bot'
+			value = value..'\n\nPowerTG'
 			return value
 		end
 		return
@@ -77,4 +78,4 @@ patterns = {
 	}, 
 	run = run 
 }
-
+--Edited By @Navid_MrVersatile--
