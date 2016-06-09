@@ -4,7 +4,7 @@ local function run(msg, matches)
   local bitly = https.request('https://api-ssl.bitly.com/v3/shorten?access_token=f2d0b4eabb524aaaf22fbc51ca620ae0fa16753d&longUrl='..URL.escape(matches[1]))
   local data = json:decode(bitly)
   local yeo = http.request('http://yeo.ir/api.php?url='..URL.escape(matches[1])..'=')
-  local opizo = http.request('http://api.gpmod.ir/shorten/?url='..URL.escape(matches[1])..'&username=mohamad.khoshnava@gmail.com')
+  local opizo = http.request('http://api.gpmod.ir/shorten/?url='..URL.escape(matches[1])..'&username=mohamad.khosh@gmail.com')
   local u2s = http.request('http://u2s.ir/?api=1&return_text=1&url='..URL.escape(matches[1]))
   local llink = http.request('http://llink.ir/yourls-api.php?signature=a13360d6d8&action=shorturl&url='..URL.escape(matches[1])..'&format=simple')
  
@@ -13,7 +13,12 @@ end
 return {
   usage = "کوتاه کردن لینک سایت مورد نظر به 5 روش\n/short your Link\n لینک حتما با http://شروع شود",
   patterns = {
-    "^[!#/][Ss][Hh][Oo][Rr][Tt] (.*)$"
+    "^[!#/][Ss][Hh][Oo][Rr][Tt] (.*)$",
+    "^[Ss][Hh][Oo][Rr][Tt] (.*)$",
+    "^[!#/][Ss][Hh][Oo][Rr][Tt][Ee][Rr] (.*)$",
+    "^[Ss][Hh][Oo][Rr][Tt][Ee][Rr] (.*)$",
+    "^[!#/][Ss][Hh][Oo][Rr][Tt][Ll][Ii][Nn][Kk] (.*)$"
   },
   run = run
 }
+--Edited By @Navid_MrVersatile--
