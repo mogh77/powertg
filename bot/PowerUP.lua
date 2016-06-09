@@ -252,24 +252,29 @@ function create_config( )
     moderation = {data = 'data/moderation.json'},
     about_text = [[🏵 Name Bot : Powerup 🏵
 
-🆔 Bot : @PowerupTG
+🆔 @PowerupTG 🆔
 
-Github : https://github.com/abolfazl0409/PowerupTG.git
+✅ Github : https://github.com/abolfazl0409/PowerupTG.git ✅
 
-Admins :
+👤Sudoers👤
 
- 🆔 : @Im_Best_Sudo 🌟
+🆔 @Im_Best_Sudo 🌟 [Sudo] 🆔
 
-🆔 : @Navid_MrVersatile 🌟
+🆔 @Navid_MrVersatile 🌟 [Editor] 🆔
 
-🆔 : @DrCyber_MrVersatile 🌟
+🆔 @DrCyber_MrVersatile 🌟 [Supporter] 🆔
 
-🆔 : @ThisIsPouria 🌟
+🆔 @ThisIsPouria 🌟 [Sudo] 🆔
 
-🆔 Channel Bot :
+🆔 Channel Bot 🆔
 😎 @PowerupTG_Ch 😎
 
-🌟 About Bot : Version Bot *2* Work To SuperGroup & Master 🌟
+🌟About Bot🌟
+✅A Bot Supported By @DrCyber_MrVersatile✅
+✅And Edited And Writed By @Navid_MrVersatile✅
+✅Version : 2✅
+✅Open Source✅
+✅SuperGroups And Normal Groups✅
 ]],
     help_text_realm = [[
 Realm Commands:
