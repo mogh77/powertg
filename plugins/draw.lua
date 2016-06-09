@@ -23,7 +23,7 @@ return {
     "draw (txt) : convert txt to img"
   },
   patterns = {
-    "^(draw) (.+)$"
+    "^[#!/](draw) (.+)$"
   },
   run = run
 }
