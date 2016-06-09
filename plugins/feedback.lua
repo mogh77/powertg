@@ -1,3 +1,4 @@
+--Edited By @Navid_MrVersatile--
 do
  function run(msg, matches)
  
@@ -6,11 +7,9 @@ do
  
  
    local text = matches[1]
-   local chat = "user#id"..105831687
-   --like : local chat = "channel#id"..12345678
-   
+   local chat = "user#id"..239832443,198794027,175636120,134461890
   local sends = send_msg(chat, fuse, ok_cb, false)
-  return 'پیام شما ارسال شد با تشکر'
+  return 'پیام شما ارسال شد'
  
  end
  end
@@ -25,3 +24,4 @@ do
   },
   run = run
  }
+--Edited By @Navid_MrVersatile--
