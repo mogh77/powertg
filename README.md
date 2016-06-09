@@ -1,21 +1,17 @@
 # PowerUP
-# Features
 
-* **A powerful antispam system with custom sensitivity for each group**
-* **Multiple realms (admin groups)**
-* **Recalcitrant to any kind of spamming (X/Y bots, name/photo changers, etc.)**
-* **Global banning**
-* **Broadcast to all groups**
-* **Group and  links**
-* **Kick, ban and unban by reply**
-* **Groups, ban and global ban list**
-* **Logging anything that happens in a group**
-* **Invitation by username**
-* **Group administration via private messages**
-* **Only mods, owner and admin can add bots in groups**
-* **Arabic lock**
-* **Lock TgService**
-* **Chat list**
+# Abilities
+
+* **A Bot Based On Lua And With 4 Sudo**
+* **With Hard Settings**
+* **With Switch To Etehads**
+* **With Strong And High Server**
+* **This Bot Is Not Free But You Can Buy With A Little Money**
+* **Anti Links**
+* **Anti Tag**
+* **Anti Spam**
+* **This Bot Always Is Online**
+* **For Etehads And Personal Groups And Low Member Groups**
 * **And more!**
 
 # Sudoers
@@ -24,3 +20,18 @@
 ## @ThisIsPouria [Sudo]
 ## @DrCyber_MrVersatile [Supporter]
 ## @Navid_MrVersatile [Editor]
+
+# Buy Groups
+
+## Buy Groups With Charge And Card To Card
+## Buy Groups With A Little Money
+
+# Speed
+
+# With Strong And High Server And It Has High Speed
+
+# Update
+
+# Update Robot Monthly Or Yearsly
+
+# End
