@@ -16,22 +16,22 @@
 
 # Sudoers
 
-## @Im_best_Sudo [Sudo]
-## @ThisIsPouria [Sudo]
-## @DrCyber_MrVersatile [Supporter]
-## @Navid_MrVersatile [Editor]
+* **@Im_best_Sudo [Sudo]**
+* **@ThisIsPouria [Sudo]**
+* **@DrCyber_MrVersatile [Supporter]**
+* **@Navid_MrVersatile [Editor]**
 
 # Buy Groups
 
-## Buy Groups With Charge And Card To Card
-## Buy Groups With A Little Money
+* **Buy Groups With Charge And Card To Card**
+* **Buy Groups With A Little Money**
 
 # Speed
 
-# With Strong And High Server And It Has High Speed
+* **With Strong And High Server And It Has High Speed**
 
 # Update
 
-# Update Robot Monthly Or Yearsly
+* **Update Robot Monthly Or Yearsly**
 
 # End
