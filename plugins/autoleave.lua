@@ -1,7 +1,7 @@
 do local function run(msg, matches) 
-local user_bot = 165890716 
+local user_bot = 207364559 
 local receiver = get_receiver(msg)
-    if matches[1] == 'Sickout' and is_sudo(msg) then
+    if matches[1] == 'leave' and is_sudo(msg) then
        channel_kick_user("channel#id"..msg.to.id, 'user#id'..user_bot, ok_cb, false)
        chat_del_user("chat#id"..msg.to.id, 'user#id'..user_bot, ok_cb, false)
     leave(receiver, ok_cb, false)
@@ -15,7 +15,7 @@ false)
  
 return {
   patterns = {
-    "^Sickout$",
+    "^[#/!]leave$",
   },
   run = run
 }
