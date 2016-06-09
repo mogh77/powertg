@@ -248,28 +248,28 @@ function create_config( )
     "Badwords",
     "Invite"
     },
-    sudo_users = {175636120,185264953,198794027,219339258},
+    sudo_users = {175636120,239832443,198794027,134461890},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[👑 PowerUP Bot 👑
-An advanced administration bot based on TG-CLI written in Lua
+    about_text = [[🏵 Name Bot : Powerup 🏵
 
-🔰 Github 🔰
-https://github.com/abolfazl0409/PowerupTG.git
+🆔 Bot : @PowerupTG
 
-Admins:
-🔥 @Im_Best_Sudo [Founder & Developer] 🔥
+Github : https://github.com/abolfazl0409/PowerupTG.git
 
-🔥 @Redteam_01_01 [Sudo & Manager] 🔥
+Admins :
 
-🔥 @It_Is_Crazy [Sudo] 🔥
+ 🆔 : @Im_Best_Sudo 🌟
 
-🔥 @ThisIsPouria [Sudo] 🔥
+🆔 : @Navid_MrVersatile 🌟
 
-Special thanks to
-SignalTeam
+🆔 : @DrCyber_MrVersatile 🌟
 
-Our channels
-https://telegram.me/joinchat/C9lbKz-jWXqa_JeYbbYF9w
+🆔 : @ThisIsPouria 🌟
+
+🆔 Channel Bot :
+😎 @PowerupTG_Ch 😎
+
+🌟 About Bot : Version Bot *2* Work To SuperGroup & Master 🌟
 ]],
     help_text_realm = [[
 Realm Commands:
