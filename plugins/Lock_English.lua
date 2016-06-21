@@ -12,7 +12,7 @@ local function run(msg, matches)
     end
     local chat = get_receiver(msg)
     local user = "user#id"..msg.from.id
-    if lock_english == "yes" then
+    if lock_english == "🔒" then
        delete_msg(msg.id, ok_cb, true)
     end
 end
