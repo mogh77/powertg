@@ -248,7 +248,7 @@ function create_config( )
     "Badwords",
     "Invite"
     },
-    sudo_users = {175636120,239832443,198794027,134461890},
+    sudo_users = {166161244},
     moderation = {data = 'data/moderation.json'},
     about_text = [[🏵 Name Bot : Powerup 🏵
 
